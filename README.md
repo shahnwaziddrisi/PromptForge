@@ -1,6 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PromptForge
 
-## Getting Started
+🚀 **Live Demo:** [https://prompt-forge-bice.vercel.app](https://prompt-forge-bice.vercel.app)  
+
+PromptForge is a modern AI prompt-sharing platform built with **Next.js 13 (App Router)**, **NextAuth.js** for authentication, and **MongoDB** for data storage.  
+Users can create, share, and explore creative prompts — with **Google Sign-In** integration.
+
+✨ Features
+- Google Authentication (NextAuth.js with OAuth 2.0)
+- Create, view, edit, and delete prompts
+- Search prompts by keyword, tag, or creator
+- Responsive design with Tailwind CSS
+- Deployed on Vercel
+
+🛠 Tech Stack
+- **Frontend:** Next.js 13, React, Tailwind CSS
+- **Backend:** Next.js API Routes, MongoDB, Mongoose
+- **Auth:** NextAuth.js (Google OAuth 2.0)
+- **Deployment:** Vercel
+
+Getting Started
 
 First, run the development server:
 
